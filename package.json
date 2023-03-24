@@ -1,0 +1,22 @@
+{
+  "name": "oris",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/devazeez/Testcypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devazeez/Testcypress/issues"
+  },
+  "homepage": "https://github.com/devazeez/Testcypress#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
+}
